@@ -4,7 +4,7 @@ Calculate the layout on the wall to hang up pictures.
 
 ## Installation
 
-```python
+```shell
 pip install git+https://github.com/trbznk/wallc.git
 ```
 
